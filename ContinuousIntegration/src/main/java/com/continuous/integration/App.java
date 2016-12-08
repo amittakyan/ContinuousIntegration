@@ -2,8 +2,8 @@ package com.continuous.integration;
 
 public class App {
 
-	public String conCat(String a, String g){
-		return a+g;
+	public String conCat(String a, String r){
+		return a+r;
 	}
 	
 	public int add (int a, int b){
